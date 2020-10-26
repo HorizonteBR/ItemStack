@@ -1,0 +1,5 @@
+#configurações do ItemStack
+# {count}: para visualizar a quantidade de itens estacados
+# {name}: para ver o nome do item estacado
+
+title: "§e{count}x §7{name}"
