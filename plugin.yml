@@ -3,6 +3,6 @@ version: 1.0.0
 api:
 - 3.0.0
 - 4.0.0
-main: itemstack\Loader
+main: stack\Loader
 author: HorizonteBR ('@lucax_duque')
 description: "estaque os itens do seu servidor"
